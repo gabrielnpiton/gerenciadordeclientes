@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj": {}
+    "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj": {
+    "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj",
+        "projectUniqueName": "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj",
         "projectName": "GerenciadorDeClientes.Dominio",
-        "projectPath": "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj",
+        "projectPath": "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj",
         "packagesPath": "C:\\Users\\Server\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Dominio\\obj\\",
+        "outputPath": "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Server\\AppData\\Roaming\\NuGet\\NuGet.Config",

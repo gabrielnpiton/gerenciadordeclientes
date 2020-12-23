@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Apresentacao.Web\\GerenciadorDeClientes.Apresentacao.Web.csproj": {}
+    "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Apresentacao.Web\\GerenciadorDeClientes.Apresentacao.Web.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Apresentacao.Web\\GerenciadorDeClientes.Apresentacao.Web.csproj": {
+    "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Apresentacao.Web\\GerenciadorDeClientes.Apresentacao.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Apresentacao.Web\\GerenciadorDeClientes.Apresentacao.Web.csproj",
+        "projectUniqueName": "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Apresentacao.Web\\GerenciadorDeClientes.Apresentacao.Web.csproj",
         "projectName": "GerenciadorDeClientes.Apresentacao.Web",
-        "projectPath": "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Apresentacao.Web\\GerenciadorDeClientes.Apresentacao.Web.csproj",
+        "projectPath": "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Apresentacao.Web\\GerenciadorDeClientes.Apresentacao.Web.csproj",
         "packagesPath": "C:\\Users\\Server\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Apresentacao.Web\\obj\\",
+        "outputPath": "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Apresentacao.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Server\\AppData\\Roaming\\NuGet\\NuGet.Config",

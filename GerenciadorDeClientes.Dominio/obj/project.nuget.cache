@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0rlA6gvWAdJxgVDdGD3tO6Q3fxxLEixHGFp3nk2jNBEXZDkvVw4Uoad+INjCv07+/Qp81UjwuKu/nlJ7yLUL2A==",
+  "dgSpecHash": "/vS4bqnryVMm+X8Z3E/PLwBG3obSUCu+Jrz86PDJ1PF5gjzfBbwOLWHkY73yZfoxD4cU2Zbwj6cNh/y9rBwOfA==",
   "success": true,
-  "projectFilePath": "C:\\GIT\\GerenciadorDeClientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj",
+  "projectFilePath": "C:\\GIT\\gerenciadordeclientes\\GerenciadorDeClientes.Dominio\\GerenciadorDeClientes.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
